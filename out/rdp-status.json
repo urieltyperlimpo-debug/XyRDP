@@ -1,0 +1,50 @@
+{
+  "active": false,
+  "hostname": "tailscaleauthkey-8",
+  "os": "Ubuntu 24.04.5 LTS (Linux Polos · SSH Server)",
+  "os_style": "Linux Polos (SSH Server)",
+  "linux_mode": "polos",
+  "rdp_port": 22,
+  "ssh_port": 22,
+  "rdp_user": "xyadmin",
+  "rdp_listen": "LISTENING :22 & :3389 (sshd)",
+  "started_at": "2026-10-24T14:11:37Z",
+  "expires_at": "2026-10-24T14:11:37Z",
+  "heartbeat_at": "2026-10-24T14:11:37Z",
+  "duration_menit": 342,
+  "run_id": "40101391149",
+  "run_attempt": "1",
+  "run_number": "8",
+  "run_url": "https://github.com/urieltyperlimpo-debug/XyRDP/actions/runs/40101391149",
+  "hardware": {
+    "cpu_threads": 4,
+    "cpu_cores": 4,
+    "cpu_load_pct": 5,
+    "ram_gb": 15.6,
+    "ram_total_gb": 15.6,
+    "ram_used_gb": 1.4,
+    "disk_total_gb": 145,
+    "disk_free_gb": 86,
+    "disk_used_gb": 59,
+    "uptime_minutes": 0
+  },
+  "akses": {
+    "mode": "tailscale",
+    "tailscale": {
+      "status": "pending",
+      "ip": "",
+      "hostname": "tailscaleauthkey-8",
+      "port": 22,
+      "ssh_port": 22,
+      "connect": ""
+    },
+    "tunnel": {
+      "status": "pending",
+      "type": "tailscale",
+      "host": "",
+      "port": 22,
+      "address": "",
+      "connect": ":22"
+    }
+  }
+}
